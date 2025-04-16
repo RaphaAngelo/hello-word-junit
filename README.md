@@ -2,7 +2,11 @@
 
 Este projeto consiste em uma aplicação simples em Java que imprime "Hello, World!" na tela. Foi desenvolvido como atividade para a disciplina de **Gestão e Qualidade de Software** do Centro Universitário UNA.
 
-Feito por: Raphael Angelo Mourão Fidelis - 32210565
+Feito por: 
+Raphael Angelo Mourão Fidelis - 32210565 
+Matheus Santos - 322128425 
+Kelly Cardoso - 322129019 
+Ranier Júnior - 32213760
 
 ## 📌 O que foi feito:
 - Criação da classe `OlaMundo` com o método `mensagem()` que retorna a frase "Hello, World!".
